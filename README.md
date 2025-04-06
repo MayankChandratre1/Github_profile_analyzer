@@ -32,7 +32,7 @@ https://github.com/user-attachments/assets/992d4ba3-f27f-408c-b74f-9011c0dc03f3
 1. Clone the repository:
 ```bash
 git clone https://github.com/MayankChandratre1/Github_profile_analyzer.git
-cd github-profile-analyser
+cd Github_profile_analyzer
 ```
 
 2. Install dependencies:
