@@ -1,4 +1,5 @@
 # GitHub Profile Analyzer
+### [Live](https://github-profile-analyzer-six.vercel.app/)
 
 A modern web application that analyzes GitHub user profiles and visualizes their activity. Built with React, TypeScript, and Tailwind CSS.
 
@@ -14,7 +15,7 @@ A modern web application that analyzes GitHub user profiles and visualizes their
 ## Demo
 
 https://github.com/MayankChandratre1/Github_profile_analyzer/output/output.mp4
-
+0
 ## Tech Stack
 
 - React + TypeScript

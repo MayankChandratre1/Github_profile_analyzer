@@ -10,7 +10,7 @@ interface CommitChartProps {
 const CommitChart = ({ data }: CommitChartProps) => {
   const getColor = (count: number) => {
     if (count === 0) return '#ebedf0';
-    if (count <= 5) return '#818cf8'; // lighter indigo
+    if (count <= 5) return '#818cf8aa'; // lighter indigo
     if (count <= 7) return '#6366f1'; // indigo
     return '#7c3aed'; // purple
   };
