@@ -14,8 +14,12 @@ A modern web application that analyzes GitHub user profiles and visualizes their
 
 ## Demo
 
-https://github.com/MayankChandratre1/Github_profile_analyzer/output/output.mp4
-0
+
+
+https://github.com/user-attachments/assets/992d4ba3-f27f-408c-b74f-9011c0dc03f3
+
+
+
 ## Tech Stack
 
 - React + TypeScript
@@ -29,7 +33,7 @@ https://github.com/MayankChandratre1/Github_profile_analyzer/output/output.mp4
 1. Clone the repository:
 ```bash
 git clone https://github.com/MayankChandratre1/Github_profile_analyzer.git
-cd github-profile-analyser
+cd Github_profile_analyzer
 ```
 
 2. Install dependencies:
